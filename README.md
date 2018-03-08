@@ -1,6 +1,6 @@
 # simple_calc
 
-Simple calculator written in c++ language by Qusia Hroub.
+Simple calculator written in c++ language by Qusai Hroub.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms and conditions of the GNU General Public License,
